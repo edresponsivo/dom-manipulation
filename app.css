@@ -1,0 +1,20 @@
+h1 {
+  color: purple;
+  font-size: 50px;
+}
+
+#bear-photo {
+  width: 250px;
+}
+
+.special {
+  background-color: teal;
+  color: white;
+  font-size: 30px;
+  border: 1px solid teal;
+}
+
+input[type='password'] {
+  width: 200px;
+  height: 30px;
+}
